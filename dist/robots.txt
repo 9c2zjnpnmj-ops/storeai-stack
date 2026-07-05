@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://example.github.io/storeai-stack/sitemap.xml
